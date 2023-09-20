@@ -194,5 +194,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# include the .well_known folder
-include: [".well-known"]
+# include the discord verification file
+permalink: .well-known/discord
