@@ -193,6 +193,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-# include the discord verification file
-permalink: .well-known/discord
